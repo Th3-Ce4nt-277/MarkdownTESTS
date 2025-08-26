@@ -3,16 +3,25 @@
 <img width="1000" alt="Toti banner" src="https://github.com/user-attachments/assets/faa6bbd5-5eef-4a67-94f1-065469f9aaef" />
 TOTI DIVERSIDADE Projeto Final
 
-### 👥 Participantes
+## 👥 Participantes
 
--   **Cesar Licera**
--   **Analisse Del Carmen**
--   **Maria Amaya**
--   **Adrian Medina**
+-   [**Analisse Del Carmen**](https://github.com/analisser)
+-   [**Cesar Licera**](https://github.com/Th3-Ce4nt-277)
+-   [**Maria Amaya**](https://github.com/lGabyl)
+-   [**Adrian Medina**](https://github.com/medina2402)
 
-### 💾 Tecnologias
+## 💾 Tecnologias
 
-<div style="width: content; background-color: #00dbff72; display: flex; align-items: center; padding: 10px; border-radius: 100px; gap: 10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28"/>
-    <span style="font-weight: 600; font-size: 16px; color: #00DBff">React.Js</span>          
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📷 Capturas de tela
